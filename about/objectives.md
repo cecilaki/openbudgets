@@ -16,7 +16,7 @@ This model will be used to integrate all relevant budget and transaction data, g
 * <h3>A library of visualisation tools</h3> 
 This library will enable stakeholders to visualise available data in different granularity and in different modalities (spatial, temporal, administrative). These tools will enable the scrutiny of data under different lenses, enabling stakeholders to explore any relevant budget allocation. 
  
-* <h3>A library of data mining and comparative analysis tools<h3> 
+* <h3>A library of data mining and comparative analysis tools</h3> 
 This library will enable the aggregation of existing data in order to obtain new outcomes and discover trends and patterns, and potentially forecasting budget measures. 
 
 * <h3>A feedback and citizen engagement interface</h3>
