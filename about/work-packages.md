@@ -21,8 +21,6 @@ A set of budget data visualisation tools is developed that enable the user to re
 This work package integrates the data mining, comparative analysis, data visualisation, data exploration, and feedback services (from WP1-3) into the OpenBudgets.eu platform. System-wide tests are run to ensure all the tools and services are integrated correctly. 
 
 
-<p><center><img src="{{site.baseurl}}/img/workpackagestructure.png" alt="Workpackage structure" width="550"></center></p>
-
 #### Test Bed / Use Cases
 
 ###### Work Package 5: Journalism
@@ -45,6 +43,7 @@ The Europe-wide dissemination and exploitation is ensured by the promotion of th
 The coordination of the project, its consortium members and the timely delivery of the work packages is executed through the overall project management. This ensures the quality and efficiency throughout the project’s lifetime.
 
 
+<p><center><img src="{{site.baseurl}}/img/workpackagestructure.png" alt="Workpackage structure" width="750"></center></p>
 
 
 

@@ -9,7 +9,7 @@ The kick-off meeting of the OpenBudgets.eu project happened in the 29th and 30th
 The OpenBudgets.eu aims to provide a generic framework and concrete tools for supporting financial transparency, thus enhancing accountability within public administrations and reducing the possibility of corruption. The idea is to offer municipalities easy-to-use tools were they can publish their financial data and interact with citizens, also supporting participatory budgeting mechanisms.
 
 
-![alt text](http://eis.iai.uni-bonn.de/blog/wp-content/uploads/2015/07/openbudgets.jpg "The Open Budgets Team")
+![The Open Budgets Team](http://eis.iai.uni-bonn.de/blog/wp-content/uploads/2015/07/openbudgets.jpg "The Open Budgets Team")
 
 Suggested Tags:
 

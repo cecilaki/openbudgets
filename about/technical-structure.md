@@ -11,13 +11,6 @@ The Knowledge Base is also be accessible via a SPARQL endpoint, so that any exte
 
 Despite the open data paradigm, the ***data security strategy*** ensures (e.g. using dataset signatures and encryption) that the submitted data is secure, authentic and that ill-intentioned users cannot manipulate it. The ***privacy-by-design architecture*** of the platform ensures that personal information is safeguarded and not revealed unintentionally (e.g. by validation datasets before publication). 
 
-
-
-<p><img src="{{site.baseurl}}/img/technical_structure.jpg" alt="Technical Structure"></p>
-
-*<center>Overall OpenBudgets.eu Architecture</center>*
-
-
 The financial data, coming from different public bodies and different jurisdictions, are integrated by the **Data Collection and Mining services**. Once integrated, the data can be mined and analyzed to discover patterns, trends, and anomalies. 
 The platform provides the following services: semantic lifting, data optimisation, data analytics and mining, access and visualisation service, and feedback service. 
 
@@ -29,3 +22,8 @@ The platform provides the following services: semantic lifting, data optimisatio
 * **Access and Visualisation Services** - The Access service provides a preview of the data directly from the knowledge base. The visualisation service contributes to the analysis and presentation of the data by providing off the shelf visualization tools on the platform. 
 
 * **The Feedback Service** - facilitates discussions on and comments to the data, analysis, and visualizations and let users share these on social media. Finally, the feedback service has an automatic forwarding function to the public administrators concerned, so that they can be immediately informed of the analysis and feedback on the budget and spending data. 
+
+
+<p><img src="{{site.baseurl}}/img/technical_structure.jpg" alt="Technical Structure"></p>
+
+*<center>Overall OpenBudgets.eu Architecture</center>*
